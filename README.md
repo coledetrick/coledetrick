@@ -14,5 +14,6 @@
 - Automation, observability, security & resilience.
 - BS: CS
 - [AWS: SAA, Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
+- RHCSA in progress.
 
 ---
